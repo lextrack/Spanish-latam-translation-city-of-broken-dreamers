@@ -1,1 +1,0 @@
-Simplemente descomprime los archivos en la carpeta raíz del juego. Si te pregunta reemplazar dale a “sí”
